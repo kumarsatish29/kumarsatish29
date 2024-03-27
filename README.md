@@ -61,7 +61,7 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29 &show_icons=true&locale=en" alt="kumarsatish29" /></p>
  
-[satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsatish29 &theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kumarsatish29&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kumarsatish29&theme=midnight-purple)](https://git.io/streak-stats)
 
