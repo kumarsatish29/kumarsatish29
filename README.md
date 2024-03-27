@@ -54,10 +54,8 @@
 </p>
 <br>
 
-<h3 align="left"></h3>
-- ⚡ I enjoy solving problems and learning new tech.
-- Technologies
 
 <br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29&show_icons=true&locale=en" alt="kumarsatish29" /></p>
