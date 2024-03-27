@@ -67,4 +67,5 @@
 </div>
 
 <br><br>
+ <p align = "center"> Build and Created by Satish Kumar. Copyright © 2024. All rights are reserved </p>
 
