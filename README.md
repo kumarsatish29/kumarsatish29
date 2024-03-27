@@ -37,17 +37,15 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Languages and Tools</h3>
- <h4> Technologies </h4>
-  <br>
-<p align="left">
+
+<h3 align="center"> Technologies and Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,cloudflare,kubernetes,rabbitmq,redis,sqlite,supabase,docker" />
   </a>
 </p>
-<h4> Tools </h4>
-<br>
-<p align="left">
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,git,github,vscode,postman,linux,grafana" />
   </a>
