@@ -38,8 +38,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Languages and Tools</h3>
-
-- 🧞 I’m currently working as Software Developer at 314e Corporation.
 - Technologies
   <br>
 <p align="left">
