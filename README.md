@@ -10,6 +10,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsatish29" alt="kumarsatish29" /></a> </p>
 
+
+- 🔭 I’m currently working as Software Developer at 314e Corporation.
+
+- 🌱 I’m currently learning and exploring new technologies.
+
+- 📫 How to reach me kumarsatish1858@gmail.com
+
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CDMaysEnpJ4iEx1XBKvkJi1Pa86yrvn5/view)
+
+- ⚡ I enjoy solving problems and learning new tech.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satish-kumar-607595174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish-kumar-607595174/" height="30" width="40" /></a>
