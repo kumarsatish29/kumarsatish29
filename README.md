@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Programmer </h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsatish29&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsatish29" /> </p>
+<p align="right" alt="Coding" width="400" > <img src="https://komarev.com/ghpvc/?username=kumarsatish29&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsatish29" /> </p>
 
 - 🔭 I’m currently working as Software Developer at 314e Corporation.
 
