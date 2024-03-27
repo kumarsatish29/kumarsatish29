@@ -38,14 +38,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Languages and Tools</h3>
- Technologies
+ <h4> Technologies </h4>
   <br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,cloudflare,kubernetes,rabbitmq,redis,sqlite,supabase,docker" />
   </a>
 </p>
-Tools
+<h4> Tools </h4>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
