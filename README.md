@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,cloudflare,kubernetes,rabbitmq,redis,sqlite,supabase,docker   " />
   </a>
 </p>
-- Tools
+- ⚡ Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,git,github,vscode,postman,linux,grafana" />
