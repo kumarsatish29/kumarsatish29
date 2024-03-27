@@ -36,7 +36,7 @@
 <a href="https://auth.geeksforgeeks.org/user/satishk889000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satishk889000" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 <h3 align="center"> Technologies and Tools</h3>
 <p align="center">
@@ -54,7 +54,8 @@
 
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+---
 
 
 <h3 align="center">GitHub Stats:</h3>
