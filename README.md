@@ -19,6 +19,8 @@
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CDMaysEnpJ4iEx1XBKvkJi1Pa86yrvn5/view)
 
 - ⚡ I enjoy solving problems and learning new tech.
+  <br>
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
