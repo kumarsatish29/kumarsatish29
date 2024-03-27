@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning and exploring new technologies.
 
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ I enjoy solving problems and learning new tech.
 
 - 📫 How to reach me kumarsatish1858@gmail.com
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CDMaysEnpJ4iEx1XBKvkJi1Pa86yrvn5/view)
 
-- ⚡ I enjoy solving problems and learning new tech.
+- ⚡ Fun fact: I love Sports, especially Cricket.
   <br>
   <br>
 
