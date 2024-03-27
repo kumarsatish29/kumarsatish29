@@ -59,7 +59,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29 &show_icons=true&locale=en" alt="kumarsatish29" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29 &show_icons=true&locale=en" alt="kumarsatish29" /></p> -->
  
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kumarsatish29&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
