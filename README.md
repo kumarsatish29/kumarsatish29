@@ -10,7 +10,9 @@
 <br>
 
 <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-- 🔭 I’m currently working as Software Developer at 314e Corporation.
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 I’m currently working as Software Developer at 314e Corporation.
 
 - 🌱 I’m currently learning and exploring new technologies.
 
