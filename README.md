@@ -59,7 +59,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29 &theme=midnight-purple\&show_icons=true&locale=en" alt="kumarsatish29" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29 &show_icons=true&locale=en" alt="kumarsatish29" /></p>
  
 [satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarsatish29 &theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
