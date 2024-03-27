@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning and exploring new technologies.
 
 - ⚡ I enjoy solving problems and learning new tech.
+- 
 
 - 📫 How to reach me kumarsatish1858@gmail.com
 
@@ -36,19 +37,28 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3 align="left">Languages and Tools</h3>
+
+- 🧞 I’m currently working as Software Developer at 314e Corporation.
 - Technologies
+  <br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,cpp,cloudflare,kubernetes,rabbitmq,redis,sqlite,supabase,docker   " />
   </a>
 </p>
-- ⚡ Tools
+- Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,git,github,vscode,postman,linux,grafana" />
   </a>
 </p>
+<br>
+
+<h3 align="left"></h3>
+- ⚡ I enjoy solving problems and learning new tech.
+- Technologies
+
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsatish29&show_icons=true&locale=en" alt="kumarsatish29" /></p>
