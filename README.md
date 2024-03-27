@@ -8,9 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsatish29&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsatish29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsatish29" alt="kumarsatish29" /></a> </p>
-
-
 - 🔭 I’m currently working as Software Developer at 314e Corporation.
 
 - 🌱 I’m currently learning and exploring new technologies.
