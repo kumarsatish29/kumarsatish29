@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning and exploring new technologies.
 
 - ⚡ I enjoy solving problems and learning new tech.
-- 
 
 - 📫 How to reach me kumarsatish1858@gmail.com
 
