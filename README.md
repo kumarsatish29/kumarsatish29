@@ -20,7 +20,7 @@
 
 - 📫 How to reach me kumarsatish1858@gmail.com
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1CDMaysEnpJ4iEx1XBKvkJi1Pa86yrvn5/view)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1c68gY7-esP_dM8U0j6r7g1c1q-dWkb4Q/view?usp=drive_link)
 
 - ⚡ Fun fact: I love Sports, especially Cricket.
   <br>
